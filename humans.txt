@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sorlescu Manuel manuel.sorlescu@alten.com 
 
 # THANKS
 
